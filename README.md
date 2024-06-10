@@ -84,11 +84,11 @@ The system should schedule audits as per the subscription level constraints and 
   * The code will be in Typescript. If you're not familiar with it, we suggest you to take a quick look of the basic things. We do not demand Gurú level, but the basic level to get going with the code. We can cover gaps if you need help.
   * The framework will be **[NestJs](https://docs.nestjs.com/)** as provided in this repository. Same thing here, if you're not familiar with it we suggest you to take a quick look of the basic things (the **Overview** topics in the NestJs documentation). And we can cover gaps if you need help here.
   * The tools that we use to collaborate in the team are:
-    * To hold the meet: Google Meet
-    * To sketch diagrams: Miro
-    * To do pair programming: Code With Me from IntelliJ.
+    * To host calls: **[Google Meet](https://meet.google.com/)**
+    * To sketch diagrams: **[Miro](https://miro.com/)**
+    * To do pair programming: **[Code With Me](https://www.jetbrains.com/code-with-me/)** from IntelliJ.
   * If you do not have any of those or you're not familiar with them, no worries. We will adapt to what you feel most comfortable with.
 * Some other tips. For obvious reasons, they're not mandatory just a few suggestions from ours to have your mind and body as fresh as possible (all of the suggestions are proven to improve the freshness of body and mind).
   * Sleep well the day before. This will help you take better decisions.
-  * If you are used to do sports / workout, we suggest you to do your workout before or the day before.
-  * Eat well before or the day before. As healthy as you can, with no alcohol and with no ultra-processed food or the least possible.
+  * If you are used to do sports / workout, we suggest you to do your workout before or the day before. This is proven to lower stress levels and improve focus.
+  * Eat well before or the day before, as healthy as you can with no alcohol and no soft drinks, and with no ultra-processed food or the least possible. This is proven to enhance concentration, energy levels, mood, and sleep quality, thereby boosting mental performance.

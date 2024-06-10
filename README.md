@@ -24,19 +24,20 @@ We are developing a system to manage and schedule audits for various suppliers, 
 
 The system will handle the scheduling of audits for a supplier company, "Supplier 4 Live," with the following requirements and constraints:
 
-#### 1. **Auditor Availability**
+#### 1. Auditor Availability
 
 - An auditor can audit only one site per day.
 - We aim to distribute the audits proportionally among auditors to ensure fairness.
 
-#### 2. **Subscription Levels**
+#### 2. Subscription Levels
 
 Clients pay for different subscription levels, each with distinct commitments for audit report delivery:
-    - **Essentials:** Report available no earlier than 4 weeks after the request, with a maximum wait time of 4 months.
-    - **Advanced:** Report available no earlier than 3 weeks after the request, with a maximum wait time of 2 months.
-    - **Premium:** Report published as soon as it is ready, with a maximum wait time of 4 weeks.
+    
+  - **Essentials:** Report available no earlier than 4 weeks after the request, with a maximum wait time of 4 months.
+  - **Advanced:** Report available no earlier than 3 weeks after the request, with a maximum wait time of 2 months.
+  - **Premium:** Report published as soon as it is ready, with a maximum wait time of 4 weeks.
 
-#### 3. **Performance Considerations**
+#### 3. Performance Considerations
 
 Ensure the system can handle concurrent audit requests efficiently. The audit assignment logic should balance the load among auditors while adhering to subscription-level constraints.
 
@@ -44,11 +45,11 @@ Ensure the system can handle concurrent audit requests efficiently. The audit as
 
 You have been provided with the problem statement a few days in advance to familiarize yourself with the requirements and constraints. During the live coding session, which will last 90 minutes, your task is to design and implement a part of this system, focusing on:
 
-#### **System Design:**
+#### System Design
 
 Design an architecture that supports the requirements above, using principles of hexagonal architecture and Domain-Driven Design (DDD). Ensure the system can manage auditor availability, client subscriptions, and audit scheduling.
 
-#### **Implementation:**
+#### Implementation
 
 Implement a feature to assign auditors to sites, ensuring that:
 
@@ -56,7 +57,7 @@ Implement a feature to assign auditors to sites, ensuring that:
   - Audits are distributed proportionally among auditors.
   - Adherence to subscription-level constraints for report delivery.
 
-#### **Additional Complexity:**
+#### Additional Complexity
 
 Implement a basic event management system to handle notifications for audit assignments and report deliveries. Consider concurrency issues that might arise from multiple audit requests and provide solutions to handle them efficiently.
 

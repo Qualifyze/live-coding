@@ -11,7 +11,7 @@
     Qualifyze Live Coding Challenge
   </b>
   <br />
-  <h6><small>Auditor Assignment System</small></h6>
+  <h5 align="center"><small>Auditor Assignment System</small></h5>
 </h1>
 
 <br />

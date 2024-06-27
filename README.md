@@ -94,3 +94,11 @@ The system should schedule audits as per the subscription level constraints and 
   - If you are used to doing sports/workout, we suggest you do your workout before or the day before. This is proven to lower stress levels and improve focus.
   - Eat well before or the day before, as healthy as you can with no alcohol, no soft drinks, and with minimal ultra-processed food. This is proven to enhance concentration, energy levels, mood, and sleep quality, thereby boosting mental performance.
 
+### Glossary
+
+- **Supplier:** A company that requires audits for its sites (fabrication plants, warehouses, etc.).
+- **Site:** A location to be audited by an auditor.
+- **Auditor:** A professional responsible for auditing a site and delivering a report.
+- **Audit:** The process of examining a site to ensure compliance with regulations and standards.
+- **Client:** A company that request audits for its suppliers.
+- **Subscription Level:** A client subscription level that determines the audit report delivery time.
